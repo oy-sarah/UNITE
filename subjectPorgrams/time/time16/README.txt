@@ -1,0 +1,1 @@
+To obtain covMatrix.txt, decompress covMatrix.rar.
